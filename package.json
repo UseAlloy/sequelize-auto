@@ -51,7 +51,7 @@
     "graceful-fs-extra": "^2.0.0",
     "mkdirp": "^0.5.1",
     "sequelize": "https://github.com/UseAlloy/sequelize.git",
-    "yargs": "^4.7.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
